@@ -5,9 +5,9 @@ output:
   html_document:
     fig_height: 10
     fig_width: 10
-    keep_md: yes
+    keep_md: no
 ---
-Data Source:総務省<br>
+Data Source:総務省  
 作成日
 ```{r,warning=F,error=F,message=F,results='hold',echo=F}
 Sys.time()
@@ -16,7 +16,7 @@ Sys.time()
 ```{r,warning=F,error=F,message=F,echo=F}
 library(DT)
 ```
-<hr>
+---
 ```{r,warning=F,error=F,message=F,echo=F}
 title<-"平成28年1月1日住民基本台帳 都道府県別人口"
 tmp <-
