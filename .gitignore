@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Others by AMCC
+*.xls*
+*.doc*
+# Others by AMCC
