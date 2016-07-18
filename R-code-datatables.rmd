@@ -35,7 +35,7 @@ funDT <- function() {
     options = list(
       search.regex = T,
       paging = T,
-      autoWidth = T,
+      autoWidth = F,
       info = T,
       lengthChange = T,
       ordering = T,
