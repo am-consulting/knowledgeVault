@@ -50,4 +50,8 @@ Temporary Items
 *.xls*
 *.doc*
 *.csv*
+*.zip
+*.EW
+*.NS
+*.UD
 # Others by AMCC
